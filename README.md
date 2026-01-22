@@ -1,4 +1,4 @@
-# object_Detection
+# Object_Detection
 #Implementation of SSD on custom data set using pretrained model 
 
 import os
